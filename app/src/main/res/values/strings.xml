@@ -1,0 +1,9 @@
+<resources>
+    <string name="title">SocialSparkApp</string>
+    <string name="the_social_spark_app">The Social Spark App</string>
+    <string name="provide_time_of_day_eg_morning_afternoon_dinner">Provide time of day (Eg: Morning, Afternoon, Dinner)</string>
+    <string name="generate_social_spark">Generate social spark</string>
+    <string name="reset">Reset</string>
+    <string name="provide_time_of_day_eg_morning_mid_morning_afternoon_afternoon_snack_time_dinner_after_dinner_night">Provide time of day (Eg: Morning, Mid-Morning, Afternoon, Afternoon Snack Time, Dinner, After Dinner/Night)</string>
+    <string name="app_name">\'app_name\'</string>
+</resources>
